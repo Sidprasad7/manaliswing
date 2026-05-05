@@ -40,7 +40,6 @@ A complete multi-page website for an extreme adventure sport activity business b
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 - **Frontend** — HTML5 · CSS3 · JavaScript
-- **CMS** — WordPress
 - **Hosting** — GitHub Pages with custom domain
 - **Domain** — manaliswing.com
 
