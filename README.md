@@ -23,7 +23,6 @@ A complete multi-page website for an extreme adventure sport activity business b
 |---|---|
 | `index.html` | Homepage — hero, highlights, CTA |
 | `about.html` | Company story and team |
-| `tour.html` | Tour packages and details |
 | `100-jumpstyles.html` | Activity styles showcase |
 | `enquiries.html` | Customer enquiry form |
 | `safety.html` | Safety guidelines and standards |
